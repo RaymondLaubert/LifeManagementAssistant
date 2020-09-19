@@ -15,11 +15,11 @@ This software will use the language(s) Java and maybe Python or JavaScript. It w
 
 # Background
 ***Building***
--
+- .
 
 ***Running***
--
+- .
 
 # Required Resources
--Knowledge of Java and possibly JavaScript or Python
+- Knowledge of Java and possibly JavaScript or Python
 
